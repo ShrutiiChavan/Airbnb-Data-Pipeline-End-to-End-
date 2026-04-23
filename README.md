@@ -47,6 +47,30 @@ Analytics-ready datasets for reporting and modeling:
 
 obt – Denormalized master table
 fact – Fact table for analysis
+
+
+## 📂 Dataset
+- Airbnb listings dataset  
+- Includes:
+  - Price  
+  - Location  
+  - Availability  
+  - Host details  
+
+## 📌 How to Run
+
+1. Upload dataset to AWS S3  
+2. Create external/internal stages in Snowflake  
+3. Load data into Snowflake tables  
+4. Run dbt models for transformation  
+5. Query final datasets from Gold layer  
+
+## 📌 Conclusion
+This project showcases practical implementation of modern Data Engineering concepts including ETL pipelines, data modeling, and performance optimization using cloud-based tools.
+
+---
+
+⭐ If you found this project useful, feel free to star this repository!
 Ephemeral models for transformation logic
 Snapshots (SCD Type 2)
 
