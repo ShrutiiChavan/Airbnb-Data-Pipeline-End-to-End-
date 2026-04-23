@@ -71,9 +71,5 @@ This project showcases practical implementation of modern Data Engineering conce
 ---
 
 ⭐ If you found this project useful, feel free to star this repository!
-Ephemeral models for transformation logic
-Snapshots (SCD Type 2)
 
-Maintains historical data changes:
 
-dim_bookings, dim_hosts, dim_listings
